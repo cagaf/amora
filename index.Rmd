@@ -1,6 +1,6 @@
 ---
-title: "Your Document Title"
-author: "Document Author"
+title: "Relatório Teste"
+author: "Carlos Amorim"
 date: "`r Sys.Date()`"
 output_dir: "."
 output:
